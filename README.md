@@ -11,9 +11,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Student%20;Like%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring principles to improve my skills.
-- 🏢 I'm a coding Instructor @ BeCoder Academy.
-- ⚡ I concern on learning and practice on problem solving with c++.  
+- 👨‍💻 As a CS graduate, I'm constantly learning and exploring principles to improve my skills.
+- 🏢 I'm a coding Instructor @ GO Academy.
+- ⚡ I concern on learning and practice on problem solving with C++ and Python.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
